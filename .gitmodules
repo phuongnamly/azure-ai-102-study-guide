@@ -1,0 +1,18 @@
+[submodule "mslearn-ai-document-intelligence"]
+	path = mslearn-ai-document-intelligence
+	url = https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence
+[submodule "mslearn-ai-language"]
+	path = mslearn-ai-language
+	url = https://github.com/MicrosoftLearning/mslearn-ai-language
+[submodule "mslearn-ai-services"]
+	path = mslearn-ai-services
+	url = https://github.com/MicrosoftLearning/mslearn-ai-services
+[submodule "mslearn-ai-vision"]
+	path = mslearn-ai-vision
+	url = https://github.com/MicrosoftLearning/mslearn-ai-vision
+[submodule "mslearn-knowledge-mining"]
+	path = mslearn-knowledge-mining
+	url = https://github.com/MicrosoftLearning/mslearn-knowledge-mining
+[submodule "mslearn-openai"]
+	path = mslearn-openai
+	url = https://github.com/MicrosoftLearning/mslearn-openai
